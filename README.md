@@ -1,6 +1,6 @@
 # Kakapo, 2017
 
-Kia ora.
+Kia ora. Hello! Bonjour!
 
 This is your learning home through Phase 0 and into bootcamp!
 
